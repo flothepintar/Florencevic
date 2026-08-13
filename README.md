@@ -34,3 +34,4 @@ The portfolio is ready for Next.js-compatible hosting, including Vercel and Clou
 Email: florenspondaag19@gmail.com
 WhatsApp: +62 878-6877-1451
 Instagram: @yoflorencevic
+ 
